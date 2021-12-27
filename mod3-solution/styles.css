@@ -1,3 +1,20 @@
 * {
   box-sizing: border-box;
 }
+
+#navbar {
+  background-color: gray;
+  border: 2px solid black;
+}
+
+#header {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+div {
+  background-color: gray;
+}
